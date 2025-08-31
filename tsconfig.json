@@ -13,7 +13,6 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "sourceMap": true,
-    "suppressImplicitAnyIndexErrors": true,
     "strict": true,
     "noImplicitAny": true,
     "skipLibCheck": true
@@ -22,7 +21,8 @@
     "enableIvy": true
   },
   "include": [
-    "src/**/*.ts"
+    "src/**/*.ts",
+    "src/*.ts"
   ],
   "exclude": [
     "node_modules",

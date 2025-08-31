@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Personal Portfolio Website",
   "scripts": {
-  "build": "your-build-command-that-generates-dist"
-},
+    "build": "vite build" 
+  },
   "author": "",
   "license": "ISC"
 }

@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Personal Portfolio Website",
   "scripts": {
-    "build": "echo \"Static site — no build needed\""
-  },
+  "build": "your-build-command-that-generates-dist"
+},
   "author": "",
   "license": "ISC"
 }
